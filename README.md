@@ -3,6 +3,17 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Federico -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+¡Hola! 👋🏻 Soy Federico, inicialmente estudie técnico superior en Higiene y Seguridad.
+
+Soy una persona que busca el crecimiento profesional y personal, centrada en el trabajo en equipo. El año pasado tomé la decisión de reinventarme profesionalmente, así que comencé a formarme en un área que siempre me ha apasionado: la programación.
+
+Como parte de mi formación en desarrollo web, he desarrollado competencias en: UX/UI, HTML, CSS, Taildwind, TypeScrips, Boostrap, JavaScript, Git, NodeJS, Express, React, SQL, y Scrum.
+
+Como persona creativa, he orientado mi desarrollo profesional hacia el área de frontend y UX/UI, ya que considero que las mejores soluciones digitales se logran cuando el diseño, la experiencia del usuario y la funcionalidad trabajan en conjunto como partes fundamentales del desarrollo de una aplicación web.
+
+Me apasiona crear interfaces modernas, intuitivas y responsive que no solo sean visualmente atractivas, sino que también brinden una experiencia fluida, eficiente y agradable para los usuarios.
+
+🎯 → intereses / objetivos:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently working as the person in charge of the IT department (Servers, Structured Network, Routers, etc.).\
