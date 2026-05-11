@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Federico</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Federico -->
+<!-- ## 👋 &nbsp;¡Hola! Soy Federico -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 ¡Hola! 👋🏻 Soy Federico, inicialmente estudie técnico superior en Higiene y Seguridad.
@@ -15,12 +15,13 @@ Me apasiona crear interfaces modernas, intuitivas y responsive que no solo sean 
 
 🎯 → intereses / objetivos:
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently working as the person in charge of the IT department (Servers, Structured Network, Routers, etc.).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I dedicate myself to learning new technologies to expand my programming knowledge.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at FedericoeBonilla@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y proyectos rápidos e innovadores.\
+🎓 &nbsp; Actualmente me desempeño como encargado del área de sistemas informáticos (Servidores, Redes Estructuradas, Routers, entre otros).\
+🌱 &nbsp;Estoy enfocado en seguir aprendiendo más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura Cloud.\
+✍️ &nbsp;En mi tiempo libre, me dedico a aprender nuevas tecnologías para ampliar mis conocimientos en programación.\
+💬 &nbsp;No dudes en contactarme para consultorías ad honorem, voluntariados o simplemente para tener una conversación interesante.
+✉️ &nbsp; Puedes enviarme un correo a FedericoeBonilla@gmail.com
+. ¡Intentaré responder lo antes posible!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
